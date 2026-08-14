@@ -1,0 +1,10 @@
+{
+  "description": "This premium Arabic RTL website for a central hospital showcases advanced medical services, promotes new technology, and facilitates patient feedback through a user-friendly interface.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
